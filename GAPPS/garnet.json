@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Vebraga",
+			"oem": "xiaomi",
+			"device": "",
+			"filename": "RisingOS_Revived-7.0-250529-1804-GAPPS-UNOFFICIAL-garnet-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/garnet/RisingOS_Revived-7.0-250529-1804-GAPPS-UNOFFICIAL-garnet-ota.zip/download",
+			"timestamp": 1748552540,
+			"md5": "ddce707e7041deb08eddc44a5af51fa8",
+			"sha256": "3df2083b694a715bdb4db8ccb28ed1e2a3abefd2fdf2032ca070ed4155f40077",
+			"size": 2848928399,
+			"version": "7.0-Persis",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
+}
