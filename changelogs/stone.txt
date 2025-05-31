@@ -1,0 +1,7 @@
+changelog 20250325
+RisingOS Revived 6.3-Celestia
+
+* Initial build
+* Play Store is certified by default.
+* Dirty flash should work from previous build
+* March Security Patch
