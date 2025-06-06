@@ -1,15 +1,15 @@
 {
 	"response": [
 		{
-			"maintainer": "vebraga",
+			"maintainer": "Thereache",
 			"oem": "xiaomi",
 			"device": "POCO X5 PRO 5G",
-			"filename": "RisingOS_Revived-7.0-250524-1102-GAPPS-UNOFFICIAL-redwood-ota.zip",
-			"download": " https://sourceforge.net/projects/vebraga/files/RisingRev/Redwood/RisingOS_Revived-7.0-250524-1102-GAPPS-UNOFFICIAL-redwood.zip/download",
-			"timestamp": 1748545307,
-			"md5": "cd90dec90cb601c2d698e19b9b2191a6",
-			"sha256": "c199914d5f31f6e4ed71bd167d0dd506e0d618617eec918b4663550b3f6ff9e3",
-			"size": 2760588228,
+			"filename": "RisingOS_Revived-7.0-250605-2110-GAPPS-UNOFFICIAL-redwood-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/GAPPS/redwood/RisingOS_Revived-7.0-250605-2110-GAPPS-UNOFFICIAL-redwood-ota.zip/download",
+			"timestamp": 1749168514,
+			"md5": "c616e547015247b70b36d015fe0361ef",
+			"sha256": "b8c4b7e002c2a07858cf94a3f30ae49bda94ba7d098826cc0e91227200e408da",
+			"size": 2786526465,
 			"version": "7.0-Persis",
 			"buildtype": "STABLE",
 			"forum": "https://xdaforums.com/t/a15-rising-revived-oss-official-v6-x-for-poco-x5-pro-rn-12-pro-se-redwood-redwoodin.4725902/",

@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "RisingOS_Revived-7.0-250605-2011-VANILLA-UNOFFICIAL-redwood-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/VANILLA/redwood/RisingOS_Revived-7.0-250605-2011-VANILLA-UNOFFICIAL-redwood-ota.zip/download",
+			"timestamp": 1749164963,
+			"md5": "281f1ff57e2c65a4d2988e1efe9caafd",
+			"sha256": "b5758b414ae56cef01a02d59da87d218329f4d4a52db0641e662d567ab3f6e83",
+			"size": 1823701063,
+			"version": "7.0-Persis",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
+}
