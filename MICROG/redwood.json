@@ -1,21 +1,22 @@
 {
 	"response": [
 		{
-			"maintainer": "",
-			"oem": "",
-			"device": "",
-			"filename": "RisingOS_Revived-7.0-250605-1928-MICROG-UNOFFICIAL-redwood-ota.zip",
-			"download": "",
-			"timestamp": 1749162393,
-			"md5": "53259660fa13865ff33310eeae7b1ba9",
-			"sha256": "d63a9d04a629d89fb1ffbceaab5d09d7bcd5f894363ff9536a2b4d2d6614eb10",
-			"size": 1874818206,
+			"maintainer": "Vebraga",
+			"oem": "xiaomi",
+			"device": "POCO X5 PRO 5G",
+			"filename": "RisingOS_Revived-7.0-250607-0947-MICROG-UNOFFICIAL-redwood-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/7.x/MICROG/redwood/RisingOS_Revived-7.0-250607-0947-MICROG-UNOFFICIAL-redwood-ota.zip/download",
+			"timestamp": 1749300329,
+			"md5": "2fd441da04a4689e29b1420204000f74",
+			"sha256": "58cda17259769a1db3f45a7ca4eea67cd1048c6f414bd309a81ff2f5c32ad105",
+			"size": 1874818750,
 			"version": "7.0-Persis",
-			"buildtype": "",
+			"buildtype": "STABLE",
 			"forum": "",
 			"recovery": "",
 			"paypal": "",
-			"telegram": ""
+			"telegram": "https://t.me/redwood_garnet"
+		}
 		}
 	]
 }
