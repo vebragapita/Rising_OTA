@@ -8,6 +8,19 @@
 - Added back easter egg on the settings
 - Added back the fully white quick settings
 
+- Including:
+- Miuicamera 4k
+- Pixel launcher 
+- BCR
+- Wi-fi calling 
+- RCS chats
+- Add ViPER4 SoundFX
+- D2tw 
+- 
+- Credit to: 
+- @Thereache for DT
+- @bittencourtjulival for the help
+
 - 20260613
 - Update blobs from OS2.0.3.0.UMSMIXM 
 - Add ViPER4 SoundFX
