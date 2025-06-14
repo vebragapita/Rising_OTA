@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Vebraga",
+			"oem": "xiaomi",
+			"device": "POCO X5 PRO 5G",
+			"filename": "RisingOS_Revived-7.1-250613-2330-CORE-UNOFFICIAL-redwood-ota.zip",
+			"download": "https://sourceforge.net/projects/vebraga/files/RisingRev/7.1/GAPPS/redwood/RisingOS_Revived-7.1-250613-2330-CORE-UNOFFICIAL-redwood.zip/download",
+			"timestamp": 1749868024,
+			"md5": "10829e49c546b1560000366f1d1285f8",
+			"sha256": "4c745bb03adf2c61fab3f99df4812c3d7e830d4fd0c2dac25cc16c7c1adb7c02",
+			"size": 2217333446,
+			"version": "7.1-Selene",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "https://sourceforge.net/projects/vebraga/files/RisingRev/7.0/GAPPS/recoveryfiles/",
+			"paypal": "https://www.paypal.com/donate/?hosted_button_id=FPAQAJVGGYXGA",
+			"telegram": "https://t.me/redwood_garnet"
+		}
+	]
+}

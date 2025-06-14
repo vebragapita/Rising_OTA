@@ -1,9 +1,24 @@
-Initial build UNOFFICIAL by Vebraga
-Including:
-Miuicamera 4k
-Pixel launcher 
-BCR
-Wi-fi calling 
-RCS chats
-Dolby 
-D2tw 
+🔧 Changelog (v7.1):
+- Merged the June security patch
+- Fixed various lock screen element bugs
+- Added support for Keybox spoofing
+- Dropped Pixel Framework (pixel-fw)
+- Introduced several stability improvements across the system
+- Implemented the new Android 16-style Settings UI
+- Added back easter egg on the settings
+- Added back the fully white quick settings
+
+- 20260613
+- Update blobs from OS2.0.3.0.UMSMIXM 
+- Add ViPER4 SoundFX
+
+
+- Initial build UNOFFICIAL by Vebraga
+- Including:
+- Miuicamera 4k
+- Pixel launcher 
+- BCR
+- Wi-fi calling 
+- RCS chats
+- Dolby 
+- D2tw 
