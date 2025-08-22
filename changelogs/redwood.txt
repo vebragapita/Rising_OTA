@@ -1,3 +1,22 @@
+🌍✨ Introduction
+Go Celestia! RisingOS Revived v8.1 is here! This update includes Android 16 QPR0 changes, packed with exciting new features, performance improvements, and bug fixes. And always keep the spirit of risingOS and appreciate all the risingOS team for their hard work 🔥🚀💙.
+
+🔒 Security Updates
+
+    Android Security Patches: Up-to-date as
+    of August 2025 with Android 16 QPR0 changes.
+
+🔧 **Bug Fixes **
+
+    Fixed custom QS clock
+    Improved Personalizations ui
+    Fixed status bar colored icons
+    Improved the overall experience
+
+=========08/08/2025===========
+- Welcome to RisingOS Revived 8.0
+- Synced with latest Source Changes
+
 🔧 Changelog (v7.1):
 - Merged the June security patch
 - Fixed various lock screen element bugs
