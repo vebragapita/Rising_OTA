@@ -1,18 +1,18 @@
 {
 	"response": [
 		{
-			"maintainer": "Vebraga",
+			"maintainer": "√€ßπ∆⅁∆",
 			"oem": "xiaomi",
 			"device": "POCO X5 PRO 5G",
 			"filename": "RisingOS_Revived-8.1-250909-2038-GAPPS-UNOFFICIAL-redwood.zip",
 
-			"download": "https://sourceforge.net/projects/vebraga/files/RisingRev/8.1/GAPPS/RisingOS_Revived-8.1-250909-2038-GAPPS-UNOFFICIAL-redwood.zip/download",
-			"timestamp": 1755876526,
-			"md5": "f6b56005f87b36e01ea3a8cfe17ddb60",
-			"sha256": "f59626ece95daa531edb8984bf731851764c450264e9d34ccb8c577267e12484",
-			"size": 2479939839,
+			"download": "https://sourceforge.net/projects/vebraga/files/RisingRev/8.1/GAPPS/RisingOS_Revived-8.1-250914-0608-GAPPS-UNOFFICIAL-redwood.zip/download",
+			"timestamp": 1757840773,
+			"md5": "e5d0d6e49dc2d89d3e302a9a0eaad5aa",
+			"sha256": "303d808b224a308c0c5dcf9be75a6fe07867283dcfcfc4f1207cc6eddf37924b",
+			"size": 2425940129,
 			"version": "8.1-Arete",
-			"buildtype": "STABLE",
+            "buildtype": "STABLE",
 			"forum": "",
 			"recovery": "https://sourceforge.net/projects/vebraga/files/RisingRev/7.0/GAPPS/recoveryfiles/",
 			"paypal": "https://www.paypal.com/donate/?hosted_button_id=FPAQAJVGGYXGA",
