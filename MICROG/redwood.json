@@ -1,18 +1,18 @@
 {
 	"response": [
 		{
-			"maintainer": "Vebraga",
+			"maintainer": "√€ßπ∆⅁∆",
 			"oem": "xiaomi",
 			"device": "POCO X5 PRO 5G",
-			"filename": "RisingOS_Revived-7.1-250615-1529-MICROG-UNOFFICIAL-redwood.zip",
-			"download": "https://sourceforge.net/projects/vebraga/files/RisingRev/7.1/MICROG/RisingOS_Revived-7.1-250615-1529-MICROG-UNOFFICIAL-redwood.zip/download",
-			"timestamp": 1750012023,
-			"md5": "b8e00e17ec5a43ad0f18a64b5b7657de",
-			"sha256": "dcfffe407b3aa001496e16fba90325ca800d3f6783d95595b9a6faab6ecedad8",
-			"size": 2021554571,
-			"version": "7.1-Selene",
-			"buildtype": "STABLE",
-			"forum": "",
+			"filename": "RisingOS_Revived-8.1.1-250923-1620-MICROG-UNOFFICIAL-redwood.zip",
+			"download": "https://sourceforge.net/projects/vebraga/files/RisingRev/8.1/MICROG/RisingOS_Revived-8.1.1-250923-1620-MICROG-UNOFFICIAL-redwood.zip/download",
+			"timestamp": 1758655111,
+            "md5": "ecfe8db27e4b53d8cacaeec23ccda627",
+            "sha256": "05e452ec429f723ffe15932be4f2e560a11f0970df355901c66acd2df33d70cc",
+            "size": 1937292186,
+            "version": "8.1.1-Arete",
+            "buildtype": "STABLE",
+            "forum": "",
 			"recovery": "https://sourceforge.net/projects/vebraga/files/RisingRev/7.0/GAPPS/recoveryfiles/",
 			"paypal": "https://www.paypal.com/donate/?hosted_button_id=FPAQAJVGGYXGA",
 			"telegram": "https://t.me/redwood_garnet"
